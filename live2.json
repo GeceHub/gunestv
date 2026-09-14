@@ -1,0 +1,44 @@
+[
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 1",
+    "url": "https://tinyurl.com/2678mtpa",
+    "description": "Güncel spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 2",
+    "url": "https://tinyurl.com/29oh5wqq",
+    "description": "Güncel spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 3",
+    "url": "https://tinyurl.com/29ej4tez",
+    "description": "Alternatif spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 4",
+    "url": "https://tinyurl.com/2atjk5ss",
+    "description": "Alternatif spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 5",
+    "url": "https://tinyurl.com/27wzmkx8",
+    "description": "Alternatif spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Dünya & Ulusal Kanallar",
+    "url": "https://tinyurl.com/225grf9y",
+    "description": "Ulusal, spor, belgesel ve genel yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 6",
+    "url": "https://tinyurl.com/28rlaavx",
+    "description": "Yedek spor yayın akışı listesi."
+  }
+]
