@@ -47,5 +47,11 @@
     "name": "Spor Paketi 8",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar8.m3u?ref_type=heads",
     "description": "Yedek spor yayın akışı listesi."
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 9",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar9.m3u8?ref_type=heads",
+    "description": "Yedek spor yayın akışı listesi."
   }
 ]
