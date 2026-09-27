@@ -2,44 +2,50 @@
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 1",
-    "url": "https://tinyurl.com/2678mtpa",
-    "description": "Güncel spor yayın akışı listesi",
-    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar.m3u8?ref_type=heads",
+    "description": "Güncel spor yayın akışı listesi"
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 2",
-    "url": "https://tinyurl.com/29oh5wqq",
-    "description": "Güncel spor yayın akışı listesi."
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar2.m3u8?ref_type=heads",
+    "description": "Güncel spor yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 3",
-    "url": "https://tinyurl.com/29ej4tez",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar3.m3u8?ref_type=heads",
     "description": "Alternatif spor yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 4",
-    "url": "https://tinyurl.com/2atjk5ss",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar4.m3u8?ref_type=heads",
     "description": "Alternatif spor yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 5",
-    "url": "https://tinyurl.com/27wzmkx8",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar5.m3u8?ref_type=heads",
     "description": "Alternatif spor yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
-    "name": "Dünya & Ulusal Kanallar",
-    "url": "https://tinyurl.com/225grf9y",
+    "name": "Spor Paketi 6",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar6.m3u8?ref_type=heads",
     "description": "Ulusal, spor, belgesel ve genel yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
-    "name": "Spor Paketi 6",
-    "url": "https://tinyurl.com/28rlaavx",
+    "name": "Spor Paketi 7",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar7.m3u8?ref_type=heads",
+    "description": "Yedek spor yayın akışı listesi."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 8",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar8.m3u8?ref_type=heads",
     "description": "Yedek spor yayın akışı listesi."
   }
 ]
