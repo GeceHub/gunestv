@@ -1,0 +1,44 @@
+[
+  {
+    "kaynak": "json",
+    "name": "Film paketi 1",
+    "url": "http://77.245.155.242/filmmodu.json",
+    "description": "Güncel spor yayın akışı listesi. Filmmodu",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 2",
+    "url": "http://77.245.155.242/fullhdfilmizlesene.json",
+    "description": "Güncel spor yayın akışı listesi.FullHDFilmizlesene",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 3",
+    "url": "http://77.245.155.242/hdfilmcehennemi.json",
+    "description": "Güncel spor yayın akışı listesi.HDFilmcehennemi",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 4",
+    "url": "http://77.245.155.242/filmmakinesi.json",
+    "description": "Güncel spor yayın akışı listesi.Film Makinesi",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 5",
+    "url": "http://77.245.155.242/dizipal.json",
+    "description": "Güncel spor yayın akışı listesi.Dizipal",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 6",
+    "url": "http://77.245.155.242/turkish123.json",
+    "description": "Güncel spor yayın akışı listesi.Turkish123",
+    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+  }
+]
