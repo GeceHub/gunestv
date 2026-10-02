@@ -3,6 +3,7 @@
     "kaynak": "m3u8",
     "name": "Spor Paketi 1",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar1.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip.png",
     "description": "Güncel spor yayın akışı listesi"
   },
   {
@@ -10,48 +11,55 @@
     "name": "Spor Paketi 2",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar2.m3u8?ref_type=heads",
     "description": "Güncel spor yayın akışı listesi.",
-    "poster": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/selcuk-sports.jpeg"
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip2.png",
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 3",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar3.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip3.png",
     "description": "Alternatif spor yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 4",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar4.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip4.png",
     "description": "Alternatif spor yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 5",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar5.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip5.png",
     "description": "Alternatif spor yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 6",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar6.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip6.png",
     "description": "Ulusal, spor, belgesel ve genel yayın akışı listesi."
   },
   {
     "kaynak": "m3u8",
     "name": "Spor Paketi 7",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar7.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip7.png",
     "description": "Yedek spor yayın akışı listesi."
   },
    {
     "kaynak": "m3u8",
     "name": "Spor Paketi 8",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar8.m3u?ref_type=heads",
+     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip8.png",
     "description": "Yedek spor yayın akışı listesi."
   },
     {
     "kaynak": "m3u8",
     "name": "Spor Paketi 9",
     "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar9.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/trvip9.png",
     "description": "Yedek spor yayın akışı listesi."
   }
 ]
