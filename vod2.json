@@ -1,5 +1,11 @@
 [
   {
+    "kaynak": "m3u8",
+    "name": "PowerSinema",
+    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u",
+    "description": "Film içeriği mevcuttur. Powerboard tarafından yapılmıştır. Kendisine teşekkürler"
+  },
+  {
     "kaynak": "json",
     "name": "Film paketi 1",
     "url": "http://77.245.155.242/filmmodu.json",
