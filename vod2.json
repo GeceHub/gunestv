@@ -47,5 +47,12 @@
     "url": "http://77.245.155.242/turkish123.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod6.png"
+  },
+    {
+    "kaynak": "json",
+    "name": "Film paketi 7",
+    "url": "http://77.245.155.242/dizibox.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod7.png"
   }
 ]
