@@ -15,49 +15,49 @@
   },
   {
     "kaynak": "json",
-    "name": "Film paketi 1",
+    "name": "FilmModu",
     "url": "http://77.245.155.242/filmmodu.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod1.png"
   },
   {
     "kaynak": "json",
-    "name": "Film paketi 2",
+    "name": "fullhdfilmizlesene",
     "url": "http://77.245.155.242/fullhdfilmizlesene.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
    "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod2.png"
   },
   {
     "kaynak": "json",
-    "name": "Film paketi 3",
+    "name": "hdfilmcehennemi",
     "url": "http://77.245.155.242/hdfilmcehennemi.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod3.png"
   },
   {
     "kaynak": "json",
-    "name": "Film paketi 4",
+    "name": "filmmakinesi",
     "url": "http://77.245.155.242/filmmakinesi.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod4.png"
   },
   {
     "kaynak": "json",
-    "name": "Film paketi 5",
+    "name": "dizipal",
     "url": "http://77.245.155.242/dizipal.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod5.png"
   },
   {
     "kaynak": "json",
-    "name": "Film paketi 6",
+    "name": "turkish123",
     "url": "http://77.245.155.242/turkish123.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod6.png"
   },
     {
     "kaynak": "json",
-    "name": "Film paketi 7",
+    "name": "dizibox",
     "url": "http://77.245.155.242/dizibox.json",
     "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
     "poster": "https://raw.githubusercontent.com/GeceHub/gunestv/main/kanal_logo/vod7.png"
